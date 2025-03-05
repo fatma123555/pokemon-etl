@@ -16,7 +16,7 @@ This app was created as a way to learn how to make use of API requests, using py
 
 Amendments to make before running:
 
-- Add GCP credentials JSON in the config folder
+- Add GCP credentials JSON in the config folder as credential.json
 - Required details filled in the config_file.json in config folder
 
 ### Executing program

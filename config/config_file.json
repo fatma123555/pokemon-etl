@@ -1,0 +1,7 @@
+{
+  "project_id": "your-gcp-project-id",
+  "credential_path": "./tmp/credential.json",
+  "poke_url": "https://pokeapi.co/api/v2/pokemon/",
+  "bucket_name": "your-gcp-bucket-name",
+  "bucket_folder_prefix": "<your-folder-name"
+}

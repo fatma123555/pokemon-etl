@@ -2,6 +2,8 @@
 
 Basic python ETL script to request some pokemon data, select a subset of columns, light transformation to capitlise the text columns, and finally load the transformed data into GCP.
 
+![pokemon ETL diagram](img/poke_etl.drawio.png "Pokemon etl project diagram")
+
 ## Description
 
 This app was created as a way to learn how to make use of API requests, using python for basic ETL and finally how to structure a project to write out the transformed data into GCP as a csv file. This project also served as a way to learn how to use docker and how to containerise a project to be run anywhere through docker.

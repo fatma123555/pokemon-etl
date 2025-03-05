@@ -35,4 +35,4 @@ Amendments to make before running:
 
 Inspiration, code snippets, etc.
 
-- [Coursea - IBM: Python Project for Data Engineering](hhttps://www.coursera.org/learn/python-project-for-data-engineering)
+[Coursea - IBM: Python Project for Data Engineering](hhttps://www.coursera.org/learn/python-project-for-data-engineering)
